@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Volodymyr
-- 👀 I’m interested in mobile development, photography.
-- 🌱 I’m currently learning swift
-- 📫 How to reach me: instagram.com/pisarenko_photography
+- - 🌱 I’m iOS developer
+- 👀 I’m interested in mobile development, photography, snowboarding, surfing, travel.
+- 📫 How to reach me: https://www.linkedin.com/in/volodymyr-pysarenko/
 
 <!---
 Zmiyov/Zmiyov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
