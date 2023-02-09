@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Volodymyr
-- - 🌱 I’m iOS developer
+- 🌱 I’m iOS developer
 - 👀 I’m interested in mobile development, photography, snowboarding, surfing, travel.
 - 📫 How to reach me: https://www.linkedin.com/in/volodymyr-pysarenko/
 
